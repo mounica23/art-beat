@@ -1,0 +1,4 @@
+Admin account details  
+
+ID :- admin@artbeat.com
+password :- Pa$$word1
